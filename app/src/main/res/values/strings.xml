@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MikroTik Diagnostics</string>
+    <string name="hint_ip_address">IP-address</string>
+    <string name="hint_login">Login</string>
+    <string name="hint_password">Password</string>
+    <string name="text_mikrotik_default_ip">192.168.88.1</string>
+    <string name="text_mikrotik_default_login">admin</string>
+    <string name="text_connect">Connect</string>
+</resources>
